@@ -6,7 +6,13 @@
 
 노래 가사 요약문으로 앨범 아트 생성해주는 SongDALL-E
 
+
+
 #### Docs
+
+[Final Project 발표 PPT](https://github.com/juzero224/PROJECT3_SongDalle/blob/master/assets/%EB%82%98%EB%8A%94%EC%9E%90%EC%97%B0%EC%9D%B8%EC%9D%B4%EC%A1%B0.pdf)
+
+[Notion](https://www.notion.so/Song-Dall-e-b35eac5ed25240f0a3f6a729a0f938e6)
 
 
 
@@ -16,11 +22,15 @@
   - AI가 생성한 이미지가 예술 대회 1위 수상하는 뉴스와 이미지 생성에 대한 뉴스가 많이 뜨고 있음
 - 이러한 딥러닝 기술을 노래 가사에 활용한다면 시각적 재미 :point_up: 
 
+
+
 #### HOW?
 
 - 노래 가사의 요약 문장 제공
 - 노래 가사의 추상적, 주관적 특징으로 요약문의 한계점 존재 => 감성분석 제공
 - 노래 가사의 요약 문장과 감성분석 결과를 나타내는 이미지 제공
+
+
 
 #### Final Objection
 
@@ -28,7 +38,9 @@
   - 책 표지, 짧은 영상의 대본을 토대로 한 썸네일 표지
   - 유아들을 대상으로 원하는 글귀를 넣으면 이미지가 나오는 상상력 증강 교육 프로그램으로 활용
 
+<br>
 
+<br>
 
 ## :cd: Tech Stack & Architecture
 
@@ -52,9 +64,17 @@
 
 ![image-20221011174624252](README-imgaes/image-20221011174624252.png)
 
+<br>
+
+<br>
+
 ## :cd: Structure
 
 ![project_structure](README-imgaes/project_structure.png)
+
+<br>
+
+<br>
 
 ## :cd: Quick Start
 
@@ -72,7 +92,9 @@ python manage.py migrate
 python manage.py runserver
 ```
 
+<br>
 
+<br>
 
 ## :cd: Homepage Configuration
 
@@ -131,7 +153,9 @@ python manage.py runserver
 
 ![image-20221011172249652](README-imgaes/image-20221011172249652.png)
 
+<br>
 
+<br>
 
 ## :cd: Modeling
 
@@ -164,7 +188,9 @@ Lyrics Sentiment Analysis
 
 Text to Image Model
 
+<br>
 
+<br>
 
 ## :cd: References
 
